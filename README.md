@@ -1,2 +1,7 @@
-# exemplo-bootstrap
- Exemplos de uso da biblioteca bootstrap
+# Referencias sobre bootstrap
+
+## Sites úteis
+
+### Documentação da versão 5.2
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
